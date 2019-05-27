@@ -25,7 +25,7 @@
 * Unit testing was performed and failed due to: 
 `Invariant Violation: fetch is not found globally and no fetcher passed, to fix pass a fetch foryour environment like https://www.npmjs.com/package/node-fetch.`
 
-##Todo
+## Todo
 * Complete mutation of data
 * Resolve unit test issues
 * Use Typescript of Flow 
